@@ -31,3 +31,7 @@ st.markdown(
 """
 )
 ```
+
+### 결과
+![숙제](https://github.com/user-attachments/assets/b886912e-3f11-47e4-a815-0e88c607d6d7)
+
